@@ -25,6 +25,7 @@ const Footer = () => (
         <img
           src={images.spoon}
           className="spoon__img"
+          alt="spoon"
           style={{ marginTop: 15 }}
         />
         <div className="app__footer-links_icons">
